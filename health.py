@@ -29,7 +29,7 @@ def GetSeq():
     hour = int(time.localtime(time.time()).tm_hour)
     if hour < 12 and hour > 7:
         return 1
-    elif hour > 12 and hour < 22:
+    elif hour >= 12 and hour < 22:
         return 2
     else:
         return 3
