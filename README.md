@@ -1,4 +1,4 @@
-# 因我在校园更新，本程序失效，请移步新仓库！！！
+# 因我在校园更新，本程序失效，请移步新仓库！！！[新仓库](https://github.com/LinChiQ/NewWoZaiXiaoYuan)
 
 
 # KUSTWoZaiXiaoYuan
